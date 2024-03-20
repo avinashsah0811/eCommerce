@@ -17,3 +17,5 @@ export const HomeScreen = () => {
         </>
     )
 }
+
+export default HomeScreen
